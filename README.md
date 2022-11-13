@@ -13,7 +13,6 @@
      It was build using Bootstrap functionalities.<br>
      Portfolio URL: https://hakeemsulyman.com<br>
      Author: Hakeem Sulyman<br>
-     License: https://bootstrapmade.com/license/
      <br><br>
 
 <h3>TECH</h3>
